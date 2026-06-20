@@ -8,7 +8,7 @@
   "server": {
     "ip": "froored.aternos.me",
     "port": 30201,
-    "version": "1.12.11",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
